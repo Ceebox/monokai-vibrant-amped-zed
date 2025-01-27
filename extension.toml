@@ -1,6 +1,6 @@
 id = "monokai-vibrant-amped"
 name = "Monokai Vibrant Amped"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Chadderbox"]
 description = "A version of Monokai Vibrant Amped, but for Zed!"
